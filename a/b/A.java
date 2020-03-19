@@ -1,6 +1,6 @@
-package a.b.c;
+package a.b;
 
-public class A {
+public class A implements AInterface {
 	
 	public void m1() {
 		int aaa = 1;
