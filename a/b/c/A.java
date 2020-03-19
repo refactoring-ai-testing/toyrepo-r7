@@ -1,6 +1,6 @@
-package a.b;
+package a.b.c;
 
-public class A {
+public class A implements SuperHero {
 	
 	public void m1() {
 		int aaa = 1;
@@ -13,6 +13,10 @@ public class A {
 
 	public void print(int c) {
 		System.out.println(c);
+	}
+
+	public void supersuper() {
+		System.out.println("I believe I can fly");
 	}
 
 }
