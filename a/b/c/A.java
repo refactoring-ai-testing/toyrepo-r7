@@ -1,6 +1,6 @@
 package a.b.c;
 
-public class A implements SuperHero {
+public class A {
 	
 	public void m1() {
 		int aaa = 1;
